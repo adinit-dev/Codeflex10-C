@@ -10,7 +10,7 @@
 ✅ **Session 2** – Loops and Conditional Statements  
 ✅ **Session 3** – Nested Loops and Pattern Problems  
 ✅ **Session 4** – Logic Building, Switch Case  
-✅ **Session 5** – Introduction to Functions (if included)
+✅ **Session 5** – Number Patterns, Combined Logic using Loops
 
 ---
 
@@ -19,8 +19,8 @@
 - C Syntax and Structure  
 - If-Else & Switch Case  
 - For, While, Do-While Loops  
-- Functions (User Defined)  
-- Pattern Problems  
+- Pattern Building  
+- Arithmetic and Input Handling  
 
 ---
 
