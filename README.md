@@ -43,9 +43,6 @@ From basic I/O to recursion and arrays, this project showcases logical problem-s
 **Topic:** Arrays  
 **Focus:** Array input/output, max/min, sum, average, even/odd filter, prime check in arrays.
 
-🔹 **Session 10**  
-**Topic:** Multi-Concept Practice  
-**Focus:** Final logic assessment combining loops, functions, arrays, and conditionals.
 
 ---
 
